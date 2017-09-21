@@ -3,5 +3,5 @@ project(Point)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp)
+set(SOURCE_FILES Daryl_Adams_hw2_task1.cpp)
 add_executable(Point ${SOURCE_FILES})
